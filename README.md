@@ -14,9 +14,10 @@ rGuiLayout can be used for free as a [WebAssembly online tool](https://raylibtec
 
 > This fork only changes the maximum number of controls you can place in the editor, and the control text count.
 > 
-> Changes are: max control count    = 256 -> 512
-> 
->              max control text len = 128 -> 512
+> Changes are:
+>
+>  max control count    = 256 -> 512
+>  max control text len = 128 -> 512
 >
 > Why? Because my use case needed this.
 
