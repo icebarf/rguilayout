@@ -12,6 +12,11 @@ rGuiLayout can be used for free as a [WebAssembly online tool](https://raylibtec
 
 **NOTE: Latest `rGuiLayout 4.0` release is intended to be used with [`raygui 4.0`](https://github.com/raysan5/raygui/releases/tag/4.0) release.**
 
+> This fork only changes the maximum number of controls you can place in the editor, and the control text count.
+> Changes are: max control count    = 256 -> 512
+>              max control text len = 128 -> 512
+> Why? Because my use case needed this.
+
 ## rGuiLayout Features
 
  - **25 gui controls to define your immmediate-mode gui layout**
