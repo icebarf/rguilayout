@@ -17,6 +17,7 @@ rGuiLayout can be used for free as a [WebAssembly online tool](https://raylibtec
 > Changes are:
 >
 >  max control count    = 256 -> 512
+> 
 >  max control text len = 128 -> 512
 >
 > Why? Because my use case needed this.
